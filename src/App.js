@@ -23,7 +23,9 @@ const cardsList = [
     id: 3,
     title: 'Software Developer',
     description:
-      'A computer programmer, sometimes referred to as a software developer, a software engineer, a programmer or a coder, is a person who creates computer programs',
+      'A computer programmer, engineer,a coder, is a person who creates computer programs',
+    imgUrl: 'https://assets.ccbp.in/frontend/react-js/vr-developer-img.png',
+    className: 'card-3',
   },
   {
     id: 4,
